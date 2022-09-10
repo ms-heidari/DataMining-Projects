@@ -3,4 +3,4 @@ Projects for Data Mining Course : [Dr. Kourosh Parand](https://scholar.google.co
 
 University: [Shahid Beheshti University](https://www.sbu.ac.ir/)
 
-Student : [ Mohammad Saeid Heidari ] 
+Student : [Mohammad Saeid Heidari](https://www.linkedin.com/in/ms-heidari/) 
